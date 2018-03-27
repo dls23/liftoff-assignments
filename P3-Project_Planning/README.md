@@ -8,9 +8,9 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-*[Wireframe1](./IMG_2830.JPG)
-*[Wireframe2](./IMG_2831.JPG)
-*[Wireframe3](./IMG_2832.JPG)
+* [Wireframe1](./IMG_2830.JPG)
+* [Wireframe2](./IMG_2831.JPG)
+* [Wireframe3](./IMG_2832.JPG)
 
 ### Project Tracker
 
